@@ -16,3 +16,21 @@ A simple Chrome extension that highlights focused elements with a red dashed out
 ```bash
 git clone https://github.com/rsales/focus-outline-extension.git
 ```
+2. Enable **Developer Mode**
+3. Click **Load unpacked**
+4. Select the project folder
+
+## 📦 Usage
+
+- Click the extension icon
+- Enable/disable per site
+- Badge "ON" indicates active state
+
+## 🛠 Tech
+
+- Chrome Extensions Manifest V3
+- Vanilla JavaScript
+
+## 📄 License
+
+MIT
