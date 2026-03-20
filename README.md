@@ -33,4 +33,4 @@ git clone https://github.com/rsales/focus-outline-extension.git
 
 ## 📄 License
 
-MIT
+[MIT](https://github.com/rsales/focus-outline-extension/blob/main/LICENSE)
